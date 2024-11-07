@@ -32,6 +32,8 @@
 ## 3D Printed Parts
 ## Laser Cut Parts
 # Assembly 
+The assembly of the drone is broken up into 3 parts. See them below. 
 ## Bottom Half
+This portion of the assembly uses the following parts:
 ## Top Half
 ## Electronics and Wiring
