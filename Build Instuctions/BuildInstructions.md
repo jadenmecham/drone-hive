@@ -35,5 +35,9 @@
 The assembly of the drone is broken up into 3 parts. See them below. 
 ## Bottom Half
 This portion of the assembly uses the following parts:
+1. Base plate (from S500 V2 kit)
+2. Landing gear (from S500 V2 kit)
+3. All 3D printed parts
+4. Screws for attaching parts. 
 ## Top Half
 ## Electronics and Wiring
