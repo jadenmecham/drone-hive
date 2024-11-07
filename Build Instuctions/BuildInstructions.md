@@ -33,11 +33,17 @@
 ## Laser Cut Parts
 # Assembly 
 The assembly of the drone is broken up into 3 parts. See them below. 
+## Top Half
+The top half os the frame uses the following components:
+1. Main plate (from S500 V2 kit)
+2. All 4 motor arms
+3. Acrylic plate
+4. Motors
 ## Bottom Half
 This portion of the assembly uses the following parts:
 1. Base plate (from S500 V2 kit)
-2. Landing gear (from S500 V2 kit)
-3. All 3D printed parts
-4. Screws for attaching parts. 
-## Top Half
+2. Legs
+3. All 3D printed parts 
+
+First, solder the motor ESCs and battery power adapter to the base plate in the locations shown in the following image. 
 ## Electronics and Wiring
