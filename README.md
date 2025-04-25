@@ -3,3 +3,6 @@ Scarab drone at University of Nevada, Reno in the [van Breugel Lab](https://gith
 ## Build Instructions
 See the build instructions [here](https://github.com/jadenmecham/Scarab/blob/main/Build%20Instuctions/BuildInstructions.md) for how to build the drone and wire all the electronics.
 ## Software Setup
+See the software setup instructions [here]([https://github.com/jadenmecham/Scarab/blob/main/Software%20Setup/SoftwareSetup.md](https://github.com/jadenmecham/Scarab/tree/main/Software%20Setup)) for how to set up the drone's computer and the computer that will be controlling the drone. 
+## Other Setup
+- [Controller and receiver binding](https://github.com/jadenmecham/Scarab/blob/main/Other%20Setup/ControllerBinding.md)
