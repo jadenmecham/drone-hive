@@ -8,6 +8,7 @@ See the software setup instructions [here](https://github.com/jadenmecham/Scarab
 For other important things to setup before flying the drone. 
 - [Controller and receiver binding](https://github.com/jadenmecham/Scarab/blob/main/Other%20Setup/ControllerBinding.md)
 - [Manually Calibrate ESC](https://github.com/jadenmecham/Scarab/blob/main/Other%20Setup/CalibrateESC.md)
+- Phidgets sensor setup
 - Calibrate Wind Sensor
 - Calibrate Vicon
 - Cailbrate Drone IMU
