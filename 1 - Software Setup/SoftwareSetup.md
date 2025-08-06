@@ -30,4 +30,5 @@ To make it easier to launch, you should add an alias to your bashrc file:
 # Setup the Drone's Onboard Computer 
 Follow the same instructions as above to isntall Ubuntu, ROS1, and the required dependencies.
 
-
+## Tips
+1. On scarab, when launching vrpn_mavros, I got an error that said it was crashing because of the odom plugin. I went to the pluginlist.yaml file and blacklisted it. It works now?
