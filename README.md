@@ -6,9 +6,13 @@ See the build instructions [here](https://github.com/jadenmecham/Scarab/blob/mai
 See the software setup instructions [here](https://github.com/jadenmecham/Scarab/blob/main/Software%20Setup/SoftwareSetup.md) for how to set up the drone's computer and the computer that will be controlling the drone. 
 ## Other Setup
 For other important things to setup before flying the drone. 
+### Required
 - [Controller and receiver binding](https://github.com/jadenmecham/Scarab/blob/main/Other%20Setup/ControllerBinding.md)
 - [Manually Calibrate ESC](https://github.com/jadenmecham/Scarab/blob/main/Other%20Setup/CalibrateESC.md)
-- Phidgets sensor setup
+
+### As Needed
+- [Phidgets sensor setup](https://github.com/jadenmecham/drone-hive/blob/main/2%20-%20Other%20Setup/PhidgetsInstall.md) if the sensors don't work after the autoinstallation. 
 - Calibrate Wind Sensor
-- Calibrate Vicon
-- Cailbrate Drone IMU
+
+## Cheat Sheets
+See the [cheat sheets](https://github.com/jadenmecham/drone-hive/tree/main/3%20-%20Cheat%20Sheets) for quick reminders on how to run everything. 
