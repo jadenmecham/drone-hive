@@ -30,20 +30,16 @@
 
 ***Note:*** A cheaper alternative to The Cube Blue flight controller used here is [The Cube Orange](https://irlock.com/products/cube-orange?variant=17907643908147&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=gs-2018-09-19&utm_source=google&utm_medium=smart_campaign&gad_source=1&gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6SxkUAurjztkKEPH3sd8yNxrrjXkz0NEETTFCJsIXDJiQHnI6eSvJ9EaAus8EALw_wcB). It is similar in quality to The Cube Blue but it is not D.o.D. compliant. 
 ## 3D Printed Parts
+Includes legs and computer/battery holder. 
 ## Laser Cut Parts
+Includes top plate for holding the wind sensor and tracking object. 
 # Assembly 
-The assembly of the drone is broken up into 3 parts. See them below. 
-## Top Half
-The top half os the frame uses the following components:
-1. Main plate (from S500 V2 kit)
-2. All 4 motor arms
-3. Acrylic plate
-4. Motors
-## Bottom Half
-This portion of the assembly uses the following parts:
-1. Base plate (from S500 V2 kit)
-2. Legs
-3. All 3D printed parts 
+1. Attach NUC to the computer holder.
+2. Secure NUC computer holder to the bottom base plate.
+3. Attach the motor arms to the top base plate.
+4. Screw motors to the ends of the arms.
+5. Use standoffs to attach the wind sensor plate to the base.
+6. Screw bottom plate into the bottom of the motor arms to attach the top and bottom halves.
+7. Attach legs to the base. 
 
-First, solder the motor ESCs and battery power adapter to the base plate in the locations shown in the following image. 
 ## Electronics and Wiring
