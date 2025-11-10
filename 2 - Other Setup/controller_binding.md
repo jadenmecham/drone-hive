@@ -8,21 +8,25 @@ The controller and reveiver both need to be flashed with the correct firmware.
 4. Then, plug the microSD card into the controller. Make sure that the controller is powered off before doing this.
 5. Once the microSD card is inserted, power the controller on. Once booted up, select the microSD card slot as the storage device. 
 ## Flash the Controller
-Reference [this video](https://www.youtube.com/watch?v=lcnKKYE24F4) if needed. 
+Reference [this video](https://www.youtube.com/watch?v=lcnKKYE24F4) if needed. Also note that you can connect multiple receivers to the controller by doing these steps on different 'models' on the controller.
 1. Hold down the menu button
 2. Press the page button
 3. Scroll to the controller's firmware file and hold enter
-4. Select flash internal module. There should be a screen that says 'writing'.
+4. Select flash ***internal module***. There should be a screen that says 'writing'.
 5. Once complete, exit back the the main menu and restart the controller
 ## Flash Receiver
 Reference [this video](https://www.youtube.com/watch?v=lcnKKYE24F4) if needed. This process is very similar to flashing the controller. 
 1. Make sure the controller is turned off
-2. Plug the 3 pins of the receiver's smart port into the pins on the back of the controller. From bottom to top, the pins are sport, ground, power. Make sure to atch the pins of the receiver and controller.
+2. Plug the 3 pins of the receiver's smart port into the pins on the back of the controller. From bottom to top, the pins are sport, ground, power. 
 3. Once plugged in, turn on the controller.
 4. Hold down the menu button
 5. Press the page button
 6. Scroll to the receivers's firmware file and hold enter
-7. Select flash external module. There should be a screen that says 'writing'.
+7. Select flash ***external module***. There should be a screen that says 'writing'.
 8. Once finished, exit back to the main menu and turn off the controller. Then, unplug the receiver.
 ## Bind Controller and Receiver
 [This video](https://www.youtube.com/watch?v=RH_RuVbF2YU) shows the procedure. 
+1. Turn on the controller and make sure you are on the correct model for the receiver
+2. Power the receiver via the sbus port. It should have a flashing red light
+3. Press and hold the f/p button next to the LED. It should flash red and green when trying to pair
+4. Once paired, there will only be a green light
