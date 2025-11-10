@@ -7,7 +7,7 @@ To setup your computer, you will first need to install the Ubuntu 20.04 operatin
 ## Install ROS and Dependencies
 This installs Robot Operating System (ROS) and all the required dependencies so we can run code on the drone later. 
 1. Install git on the computer with ```sudo apt install git```
-2. Clone [this repository](https://github.com/jadenmecham/hive_auto_install) to your computer with ```git clone https://github.com/jadenmecham/hive_auto_install```
+2. Clone [this repository](https://github.com/jadenmecham/hive_auto_install) to your computer with ```git clone https://github.com/jadenmecham/hive_auto_install```. This is an autoinstaller that will od most of the work for us.
 3. Run the autoinstall script. ```cd /hive_auto_install```, then ```/.autoinstall.sh```
 4. Answer Y to install ROS1 and N to install ROS2. Follow all other prompts as needed and then reboot at the end.
 5. Once rebooted, run the catkin workspace builder script with ```cd /hive_auto_install```, then ```/.make_catkinws```. Answer Y to all prompts as needed and reboot at the end
@@ -28,7 +28,7 @@ To make it easier to launch, you should add an alias to your bashrc file:
  Now, you can type ```QGC``` into your terminal to launch QGroundControl.
 
 # Setup the Drone's Onboard Computer 
-Follow the same instructions as above to isntall Ubuntu, ROS1, and the required dependencies.
+Follow the same instructions as above to isntall Ubuntu, ROS1, and the required dependencies. No need to install QGroundControl!
 
 ## Tips
 1. On scarab, when launching vrpn_mavros, I got an error that said it was crashing because of the odom plugin. I went to the pluginlist.yaml file and blacklisted it. It works now?
